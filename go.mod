@@ -1,3 +1,3 @@
-module github.com/medivhzhan/weapp/v2
+module github.com/michaelzx/wxapp
 
 go 1.12
